@@ -40,6 +40,8 @@ GEM
     rack-jekyll (0.4.1)
       jekyll (>= 0.12.0, < 2.0)
       rack (~> 1.5.0)
+    rails_serve_static_assets (0.0.4)
+    rails_stdout_logging (0.0.3)
     rake (10.4.2)
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
@@ -60,4 +62,6 @@ DEPENDENCIES
   kramdown
   puma
   rack-jekyll
+  rails_serve_static_assets
+  rails_stdout_logging
   rake
