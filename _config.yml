@@ -1,0 +1,14 @@
+# Site settings
+title: Retail Link Blog
+email: enquiries@retaillinkrecruitment.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Why shop around when Retail Link has everything in store? Find out how we can offer you the best retail recruitment service at: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.retaillinkrecruitment.co.uk/" # the base hostname & protocol for your site
+tel: "07790 735809"
+
+# Build settings
+markdown: kramdown
+
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
