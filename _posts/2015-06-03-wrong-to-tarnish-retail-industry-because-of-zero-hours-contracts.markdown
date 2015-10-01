@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Wrong to tarnish retail industry because of zero hours contracts"
+author: "Craig Vidler"
 date:   2015-06-03 11:42:36
 categories: retail wages
 ---
+
+![Hico Party]({{ site.url }}/assets/img/zerohour.jpg)
+
 The poor perception of retailing as a good place to work has been dented by the sector’s employment practices, according to a report in Retail Week.
 
 One reason is zero hours contracts, which emerged as a prominent issue during the General Election campaign, with Labour planning to scrap them.

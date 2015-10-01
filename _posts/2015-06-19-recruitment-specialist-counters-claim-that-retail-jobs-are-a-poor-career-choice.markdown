@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Recruitment specialist counters claim that retail jobs are a poor career choice"
+author: "Tim Elliott"
 date:   2015-06-19 11:42:36
 categories: retail jobs
 ---
+
+![Disgruntled employee]({{ site.url }}/assets/img/till.jpg)
+
 Retailers have a long way to go to convince consumers the industry offers good jobs, according to a survey.
 
 An ICM poll for Retail Week found that only one in six (17%) regard it as good career choice. This ranks it third from bottom in a list of 14 sectors, finishing ahead of only charity work and agriculture.

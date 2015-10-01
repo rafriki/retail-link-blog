@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Good and bad news in retail as boots cuts jobs and pets at home creates more"
+title:  "Good and bad news in retail as Boots cuts jobs and Pets at Home creates more"
+author: "Tim Elliott"
 date:   2015-06-22 11:42:36
 categories: retail jobs
 ---
+
+![Boom and bust in retail]({{ site.url }}/assets/img/updown.jpg)
+
 *Tim Elliott, head of recruitment at Retail Link, reflects on recent contrasting fortunes in the industry*
 
 The latest news from Boots and Pets at Home highlights the challenges and opportunities on the High Street at the moment.

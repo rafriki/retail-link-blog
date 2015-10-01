@@ -212,6 +212,15 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    img{
+        float: right;
+        margin: 20px;
+        @include media-query($on-laptop) {
+            float: none;
+            margin: 0px;
+        }
+    }
+
     h2 {
         font-size: 32px;
 
