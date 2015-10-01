@@ -6,8 +6,6 @@ date:   2015-08-28 11:42:36
 categories: retail jobs
 ---
 
-28 August 2015, Tim Elliott
-
 At Retail Link, we are pleased to see industry players starting to pay the national living wage. For too long, retail has been seen as a low-paid sector, a poor relation to other service industries. We need to change this perception and reward hard-working staff accordingly. 
 
 You and I know that retail is a great career. But too many potential entrants are put off because of perceived low pay. Sainsbury’s is setting a great example with its announcement that it is going to pay its 137,000 store staff more than the Chancellor’s compulsory national living wage.
