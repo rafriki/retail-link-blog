@@ -18,8 +18,7 @@ I hope others will soon follow. I’m not convinced by the argument that it will
 Retail Week reported that the grocer had given employees an “industry-leading” 4% pay rise – the highest increase it has awarded to store staff for more than a decade – taking its standard rate of pay from £7.08 to £7.36 per hour.
 The new hourly wage is 16p more than George Osborne’s living wage of £7.20, which comes into force next April.
 Sainsbury’s said the new rates of pay would apply to staff of all ages, including more than 40,000 staff under the age of 25. The Chancellor’s new national living wage only applies to workers over 25.
-
-## Is the pay increase destroying jobs?
+ Is the pay increase destroying jobs?
 
 It is the highest pay increase at Sainsbury’s in a decade. Chief executive Mike Coupe said he was “committed to rewarding great service.”
 But his predecessor Justin King warned that the Chancellor’s decision was “ludicrous” and would destroy jobs.
