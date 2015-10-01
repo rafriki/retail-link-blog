@@ -2,32 +2,37 @@
 layout: post
 title:  "Sainsbury's pays living wage- but will it "destroy" jobs?"
 author: "Tim Elliott"
-date:   2015-09-30 11:42:36
+date:   2015-08-28 11:42:36
 categories: retail jobs
 ---
 
 28 August 2015, Tim Ellis
+
 At Retail Link, we are pleased to see industry players starting to pay the national living wage. For too long, retail has been seen as a low-paid sector, a poor relation to other service industries. We need to change this perception and reward hard-working staff accordingly. 
 
-You and I know that retail is a great career. But too many potential entrants are put off because of perceived low pay. Sainsburyís is setting a great example with its announcement that it is going to pay its 137,000 store staff more than the Chancellorís compulsory national living wage.
-I hope others will soon follow. Iím not convinced by the argument that it will reduce job numbers.
-Highest increase in a decade 
-Retail Week reported that the grocer had given employees an ìindustry-leadingî 4% pay rise ñ the highest increase it has awarded to store staff for more than a decade ñ taking its standard rate of pay from £7.08 to £7.36 per hour.
-The new hourly wage is 16p more than George Osborneís living wage of £7.20, which comes into force next April.
-Sainsburyís said the new rates of pay would apply to staff of all ages, including more than 40,000 staff under the age of 25. The Chancellorís new national living wage only applies to workers over 25.
-Is the pay increase destroying jobs?
-It is the highest pay increase at Sainsburyís in a decade. Chief executive Mike Coupe said he was ìcommitted to rewarding great service.î
-But his predecessor Justin King warned that the Chancellorís decision was ìludicrousî and would destroy jobs.
+You and I know that retail is a great career. But too many potential entrants are put off because of perceived low pay. Sainsbury‚Äôs is setting a great example with its announcement that it is going to pay its 137,000 store staff more than the Chancellor‚Äôs compulsory national living wage.
+I hope others will soon follow. I‚Äôm not convinced by the argument that it will reduce job numbers.
+
+## Highest increase in a decade 
+
+Retail Week reported that the grocer had given employees an ‚Äúindustry-leading‚Äù 4% pay rise ‚Äì the highest increase it has awarded to store staff for more than a decade ‚Äì taking its standard rate of pay from ¬£7.08 to ¬£7.36 per hour.
+The new hourly wage is 16p more than George Osborne‚Äôs living wage of ¬£7.20, which comes into force next April.
+Sainsbury‚Äôs said the new rates of pay would apply to staff of all ages, including more than 40,000 staff under the age of 25. The Chancellor‚Äôs new national living wage only applies to workers over 25.
+
+## Is the pay increase destroying jobs?
+
+It is the highest pay increase at Sainsbury‚Äôs in a decade. Chief executive Mike Coupe said he was ‚Äúcommitted to rewarding great service.‚Äù
+But his predecessor Justin King warned that the Chancellor‚Äôs decision was ‚Äúludicrous‚Äù and would destroy jobs.
 The BBC reported that Mr King had argued that by 2020, the national living wage could be "10% or 15% higher" than the minimum wage equivalent.
 
 "The Low Pay Commission has done tremendous work on the minimum wage for many years," Mr King said. But the living wage "is not economically justified."
 
 Employers would seek to make their workforces more productive and that would lead to fewer jobs, he argued.
 
-"You can't talk about productivity without recognising that one of the consequences of productivity is less people producing the same output,î Mr King said.
+"You can't talk about productivity without recognising that one of the consequences of productivity is less people producing the same output,‚Äù Mr King said.
 
- ìCompanies will invest in more productivity and as a consequence there will be less jobs."
+‚ÄúCompanies will invest in more productivity and as a consequence there will be less jobs."
 
-Aside from the fact that he should have said ìfewer,î we donít agree.
+Aside from the fact that he should have said ‚Äúfewer,‚Äù we don‚Äôt agree.
 
 With retail employment expected to jump to a 15-year high this year, I expect higher pay to attract people with stronger skillsets. Customers like dealing with people who are helpful and knowledgeable. Employers are more likely to upset customers if they use the living wage as an excuse for cutting their workforce.
