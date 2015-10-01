@@ -6,7 +6,7 @@ date:   2015-08-28 11:42:36
 categories: retail jobs
 ---
 
-28 August 2015, Tim Ellis
+28 August 2015, Tim Elliott
 
 At Retail Link, we are pleased to see industry players starting to pay the national living wage. For too long, retail has been seen as a low-paid sector, a poor relation to other service industries. We need to change this perception and reward hard-working staff accordingly. 
 
