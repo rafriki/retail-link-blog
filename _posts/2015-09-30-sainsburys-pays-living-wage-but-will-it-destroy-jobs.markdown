@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sainsbury's pays living wage- but will it "destroy" jobs?"
+title: "Sainsbury's pays living wage - but will it 'destroy' jobs?"
 author: "Tim Elliott"
-date:   2015-08-28 11:42:36
+date: 2015-08-28 11:42:36
 categories: retail jobs
 ---
 

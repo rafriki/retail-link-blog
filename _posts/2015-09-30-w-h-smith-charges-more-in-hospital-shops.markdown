@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "W H Smith "charges more" in hospital shops"
+title: "W H Smith 'charges more' in hospital shops"
 author: "Tim Elliott"
-date:   2015-09-28 11:42:36
+date: 2015-09-28 11:42:36
 categories: retail jobs
 ---
 
