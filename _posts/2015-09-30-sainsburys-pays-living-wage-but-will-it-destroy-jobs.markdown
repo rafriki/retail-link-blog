@@ -10,7 +10,6 @@ At Retail Link, we are pleased to see industry players starting to pay the natio
 
 You and I know that retail is a great career. But too many potential entrants are put off because of perceived low pay. Sainsbury’s is setting a great example with its announcement that it is going to pay its 137,000 store staff more than the Chancellor’s compulsory national living wage.
 I hope others will soon follow. I’m not convinced by the argument that it will reduce job numbers.
-
 ## Highest increase in a decade 
 
 Retail Week reported that the grocer had given employees an “industry-leading” 4% pay rise – the highest increase it has awarded to store staff for more than a decade – taking its standard rate of pay from £7.08 to £7.36 per hour.
