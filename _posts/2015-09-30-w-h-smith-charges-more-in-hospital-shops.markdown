@@ -2,11 +2,9 @@
 layout: post
 title:  "W H Smith "charges more" in hospital shops"
 author: "Tim Elliott"
-date:   2015-09-30 11:42:36
+date:   2015-09-28 11:42:36
 categories: retail jobs
 ---
-
-28 September 2015, Tim Ellis
 
 W H Smith, the newspaper, magazine, book and stationery retailer, has been criticized for allegedly charging more in its hospital outlets than shops elsewhere. Patient groups are outraged. The retailer defended the decision by saying that overheads were higher in hospital.
 
